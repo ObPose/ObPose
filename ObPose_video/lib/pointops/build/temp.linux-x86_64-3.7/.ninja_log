@@ -1,0 +1,22 @@
+# ninja log v5
+8	7632	1640197885506354000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/ballquery/ballquery_cuda.o	ecb68e2d51d416a8
+8	24818	1640197902684298000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/pointops_api.o	8e55bb438b688581
+194	10433	1640201958658745000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/ballquery/ballquery_cuda.o	b533f440fe9c688
+10446	26237	1640201974451696000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/knnquery/knnquery_cuda.o	ffdc2bb6846aec13
+197	29087	1640201977342677000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/ballquery/ballquery_cuda_kernel.o	90397da9b6d2633
+194	32192	1640201980437667000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/pointops_api.o	12b8a710605b514e
+29087	39175	1640201987429655000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/knnquery_heap/knnquery_heap_cuda.o	c6152f564e212ea1
+39175	50189	1640201998395109000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/grouping/grouping_cuda.o	c9d3c730357ccf69
+26237	51742	1640201999994100000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/knnquery/knnquery_cuda_kernel.o	2741988789880d9d
+32192	57347	1640202005587082000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/knnquery_heap/knnquery_heap_cuda_kernel.o	5fc8c100cbc57e18
+51742	64240	1640202012445062000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/grouping_int/grouping_int_cuda.o	693b27cd45283a3f
+50189	72189	1640202020425029000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/grouping/grouping_cuda_kernel.o	9c9a027f2a69d08b
+64240	76361	1640202024617023000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/interpolation/interpolation_cuda.o	f67d8ae3325f5488
+57347	80184	1640202028440001000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/grouping_int/grouping_int_cuda_kernel.o	627c8f8e25d35af4
+76361	87025	1640202035277981000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/sampling/sampling_cuda.o	6ea5e52c4ea737ff
+87026	98238	1640202046445943000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/labelstat/labelstat_cuda.o	2e8bf839c7652b08
+72189	100282	1640202048533930000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/interpolation/interpolation_cuda_kernel.o	c06ab68d4078798a
+80184	104647	1640202052903916000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/sampling/sampling_cuda_kernel.o	561ea7d5fad27a46
+100282	112215	1640202060431890000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/featuredistribute/featuredistribute_cuda.o	74566c0982735446
+98238	120885	1640202069140857000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/labelstat/labelstat_cuda_kernel.o	33cdaacf03fdf36e
+104648	124646	1640202072901845000	/home/kell5297/apex3d/model_v2/lib/pointops/build/temp.linux-x86_64-3.7/src/featuredistribute/featuredistribute_cuda_kernel.o	3d9dfa208d323ab9
